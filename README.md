@@ -1,11 +1,9 @@
-<img width="205" height="210" alt="eba0aa75f30a8d30c446d493b53f9298" src="https://github.com/user-attachments/assets/fb6016a1-84b4-4826-ad70-941d80792ef5" />
+
 <h1 align="center">Olá 👋! Eu sou a Anna</h1>
 
 <br />
 
 <img width="205" height="210" alt="eba0aa75f30a8d30c446d493b53f9298" src="https://github.com/user-attachments/assets/b8cbee91-89b5-4b7f-b1c6-ebfc152486fd" />
-
-<img align="right" src="https://media.tenor.com/a6zH9M3s_9IAAAAi/gojo-satoru-jujutsu-kaisen.gif" width="180" alt="Gojo Satoru - Jujutsu Kaisen" />
 
 <div align="left">
   <h3>💻 Sobre mim</h3>
