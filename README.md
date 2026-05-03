@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋! Eu sou a Anna</h1>
 
-<img align="right" src="https://i.pinimg.com/originals/f6/29/5b/f6295b9550b1d83ad6f7347ab6a15264.gif" width="130" alt="Sonic animado correndo" />
+<img align="right" src="COLE_O_LINK_DO_SEU_SONIC_AQUI.png" width="80" alt="Sonic Pixel Art" style="margin-left: 20px;" />
 
 <div align="left">
   <h3>💻 Sobre mim</h3>
