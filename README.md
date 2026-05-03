@@ -1,8 +1,8 @@
-# Olá! Eu sou a Anna👋
+# Olá! Eu sou a Keith 👋
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnnaClaraToledo&show_icons=true&theme=dark&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaClaraToledo&layout=compact&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AnnaClaraToledo&show_icons=true&theme=dark&hide_border=true" height="180" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaClaraToledo&layout=compact&theme=dark&hide_border=true" height="180" alt="Linguagens mais usadas" />
 </div>
 
 <br><br>
@@ -12,7 +12,7 @@
     <td valign="top" width="50%">
       <h3>💻 Sobre mim</h3>
       <ul>
-        <li>🐍 Desenvolvedora <b>Python</b>  <b></b>.</li>
+        <li>🐍 Desenvolvedora <b>Python</b> focada em transição para o <b>Backend</b>.</li>
         <li>🌐 Estudando o desenvolvimento de APIs com <b>Django</b>.</li>
         <li>🕸️ Experiência com <b>Desenvolvimento Web</b> (Frontend).</li>
         <li>🐧 Conhecimento em ambiente <b>Linux</b>.</li>
