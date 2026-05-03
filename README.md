@@ -26,5 +26,5 @@
 ---
 
 ## 📫 Conecte-se comigo
-* **LinkedIn**: [Seu LinkedIn](https://www.linkedin.com/in/anna-clara-toledo-dias-macedo-798288407/)
+* **LinkedIn**: (https://www.linkedin.com/in/anna-clara-toledo-dias-macedo-798288407/)
 * **Email**: toledodiasmacedoannaclara@gmail.com
