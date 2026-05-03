@@ -1,6 +1,3 @@
-
-
-
 <h1 align="center">Olá 👋! Eu sou a Anna</h1>
 
 <br />
@@ -8,8 +5,7 @@
 <div align="left">
   <h3>💻 Sobre mim</h3>
   
-  
-<img width="188" height="200" alt="luffy-mugen" src="https://github.com/user-attachments/assets/0cee6b03-4bc6-4568-8afa-47f06da4b15d" />
+  <img align="right" width="188" height="200" alt="luffy-mugen" src="https://github.com/user-attachments/assets/0cee6b03-4bc6-4568-8afa-47f06da4b15d" />
   
   <ul>
     <li>🐍 Desenvolvedora <b>Python</b>.</li>
