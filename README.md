@@ -32,7 +32,9 @@
   </tr>
 </table>
 
----
+<br>
+<hr>
+<br>
 
 <div align="center">
   <h3>📫 Conecte-se comigo</h3>
