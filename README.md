@@ -1,43 +1,44 @@
-# Olá! Eu sou a Keith 👋
+# Olá! Eu sou a Anna👋
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnnaClaraToledo&show_icons=true&theme=dark&bg_color=0D1117&text_color=FFFFFF&title_color=58A6FF&icon_color=58A6FF&border_color=30363D" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaClaraToledo&layout=compact&theme=dark&bg_color=0D1117&text_color=FFFFFF&title_color=58A6FF&border_color=30363D" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnnaClaraToledo&show_icons=true&theme=dark&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaClaraToledo&layout=compact&theme=dark&hide_border=true" />
 </div>
 
-<br>
+<br><br>
 
 <table>
-<tr>
-<td valign="top" width="50%">
-
-### 💻 Sobre mim
-* 🐍 Desenvolvedora **Python** focada em transição para o **Backend**.
-* 🌐 Estudando o desenvolvimento de APIs com **Django**.
-* 🕸️ Experiência com **Desenvolvimento Web** (Frontend).
-* 🐧 Conhecimento em ambiente **Linux**.
-* 🛠️ Buscando aplicar boas práticas e lógica de programação em projetos reais.
-
-</td>
-<td valign="top" width="50%">
-
-### 🛠️ Tecnologias & Ferramentas
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=58A6FF&color=0D1117&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=white&color=0D1117&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=58A6FF&color=0D1117&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=white&color=0D1117&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=58A6FF&color=0D1117&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=white&color=0D1117&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=58A6FF&color=0D1117&labelColor=0D1117" />
-</div>
-
-</td>
-</tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>💻 Sobre mim</h3>
+      <ul>
+        <li>🐍 Desenvolvedora <b>Python</b>  <b></b>.</li>
+        <li>🌐 Estudando o desenvolvimento de APIs com <b>Django</b>.</li>
+        <li>🕸️ Experiência com <b>Desenvolvimento Web</b> (Frontend).</li>
+        <li>🐧 Conhecimento em ambiente <b>Linux</b>.</li>
+        <li>🛠️ Buscando aplicar boas práticas e lógica de programação em projetos reais.</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h3 align="center">🛠️ Tecnologias & Ferramentas</h3>
+      <br>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+        <br><br>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+        <br><br>
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+      </div>
+    </td>
+  </tr>
 </table>
 
 ---
 
 ### 📫 Conecte-se comigo
-* **LinkedIn**: [Anna Clara Toledo](https://www.linkedin.com/in/anna-clara-toledo-dias-macedo-798288407/)
-* **Email**: toledodiasmacedoannaclara@gmail.com
+* **LinkedIn**: <a href="https://www.linkedin.com/in/anna-clara-toledo-dias-macedo-798288407/">Anna Clara Toledo</a>
+* **Email**: <a href="mailto:toledodiasmacedoannaclara@gmail.com">toledodiasmacedoannaclara@gmail.com</a>
