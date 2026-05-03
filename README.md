@@ -1,12 +1,13 @@
-
 <h1 align="center">Olá 👋! Eu sou a Anna</h1>
 
 <br />
 
-<img align="right" width="150" height="auto" alt="Sonic Pixel Art" src="https://github.com/user-attachments/assets/fde10342-4180-4e22-a754-74528735fc4e" />
-
 <div align="left">
   <h3>💻 Sobre mim</h3>
+  
+  
+  <img align="right" width="150" height="auto" alt="Sonic Pixel Art" src="https://github.com/user-attachments/assets/fde10342-4180-4e22-a754-74528735fc4e" />
+  
   <ul>
     <li>🐍 Desenvolvedora <b>Python</b>.</li>
     <li>🌐 Estudando o desenvolvimento de APIs com <b>Django</b>.</li>
