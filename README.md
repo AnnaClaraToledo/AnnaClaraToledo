@@ -3,8 +3,8 @@
 <br>
 
 <div align="left">
-
-  <img align="right" src="https://i.gifer.com/1Dqj.gif" width="130" alt="Sonic Pixelado Animado" />
+  <!-- O Sonic de verdade vai entrar aqui! -->
+  <img align="right" src="COLE_O_LINK_DO_GITHUB_AQUI" width="130" alt="Sonic Pixelado Animado" />
   
   <h3>💻 Sobre mim</h3>
   <ul>
