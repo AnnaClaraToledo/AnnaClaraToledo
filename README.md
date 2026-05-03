@@ -4,7 +4,8 @@
 
 <div align="left">
   <!-- O Sonic de verdade vai entrar aqui! -->
-  <img align="right" src="COLE_O_LINK_DO_GITHUB_AQUI" width="130" alt="Sonic Pixelado Animado" />
+  <img align="right" src="<img width="205" height="210" alt="image" src="https://github.com/user-attachments/assets/03287c76-1a78-4c1d-b0c2-0204d096aecb" />
+" width="200" alt="Sonic Pixelado Animado" />
   
   <h3>💻 Sobre mim</h3>
   <ul>
