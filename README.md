@@ -1,3 +1,4 @@
+
 <h1 align="center">Olá 👋! Eu sou a Anna</h1>
 
 <br />
@@ -6,7 +7,7 @@
   <h3>💻 Sobre mim</h3>
   
   
-  <img align="right" width="150" height="auto" alt="Sonic Pixel Art" src="https://github.com/user-attachments/assets/fde10342-4180-4e22-a754-74528735fc4e" />
+<img width="200" height="150" alt="one-piece-pixel" src="https://github.com/user-attachments/assets/03df38e3-afb6-4270-be2c-035ff582d78f" />
   
   <ul>
     <li>🐍 Desenvolvedora <b>Python</b>.</li>
