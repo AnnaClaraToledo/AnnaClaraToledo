@@ -1,9 +1,9 @@
-
 <h1 align="center">Olá 👋! Eu sou a Anna</h1>
 
 <br />
 
-<img width="205" height="210" alt="eba0aa75f30a8d30c446d493b53f9298" src="https://github.com/user-attachments/assets/b8cbee91-89b5-4b7f-b1c6-ebfc152486fd" />
+<!-- Coloque o seu link seguro do GitHub exatamente aqui dentro das aspas do src -->
+<img align="right" src="COLE_O_SEU_LINK_DO_GITHUB_AQUI" width="130" alt="Sonic o Ouriço" />
 
 <div align="left">
   <h3>💻 Sobre mim</h3>
@@ -49,4 +49,5 @@
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
   </p>
+</div>
 </div>
