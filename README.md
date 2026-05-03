@@ -2,8 +2,8 @@
 
 <br />
 
-
-<img align="right" src="https://i.pinimg.com/originals/f6/29/5b/f6295b9550b1d83ad6f7347ab6a15264.gif" width="120" alt="Sonic o Ouriço Azul" />
+<!-- O Feiticeiro Jujutsu passando pelo proxy do GitHub -->
+<img align="right" src="https://media.tenor.com/a6zH9M3s_9IAAAAi/gojo-satoru-jujutsu-kaisen.gif" width="180" alt="Gojo Satoru - Jujutsu Kaisen" />
 
 <div align="left">
   <h3>💻 Sobre mim</h3>
