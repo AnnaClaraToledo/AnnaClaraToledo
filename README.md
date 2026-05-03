@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋! Eu sou a Anna</h1>
 
-<img align="right" src="https://media.tenor.com/WbZ6yqX1R4kAAAAi/sonic-sonic-the-hedgehog.gif" width="80" alt="Sonic Pixel Art" style="margin-left: 20px;" />
+<img align="right" src="https://media.tenor.com/2PzQyq1_B0cAAAAi/sonic-running.gif" width="150" alt="Sonic Pixelado Animado" style="margin-left: 20px;" />
 
 <div align="left">
   <h3>💻 Sobre mim</h3>
