@@ -1,4 +1,5 @@
 
+
 <h1 align="center">Olá 👋! Eu sou a Anna</h1>
 
 <br />
@@ -7,7 +8,7 @@
   <h3>💻 Sobre mim</h3>
   
   
-<img width="200" height="150" alt="one-piece-pixel" src="https://github.com/user-attachments/assets/03df38e3-afb6-4270-be2c-035ff582d78f" />
+<img width="466" height="498" alt="c41845d2ffe4f62282f0fa1e0760f9ea" src="https://github.com/user-attachments/assets/d617a259-21ac-4e7a-ac11-af6951f41d70" />
   
   <ul>
     <li>🐍 Desenvolvedora <b>Python</b>.</li>
