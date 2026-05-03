@@ -1,9 +1,9 @@
+
 <h1 align="center">Olá 👋! Eu sou a Anna</h1>
 
 <br />
 
-<!-- Coloque o seu link seguro do GitHub exatamente aqui dentro das aspas do src -->
-<img align="right" src="COLE_O_SEU_LINK_DO_GITHUB_AQUI" width="130" alt="Sonic o Ouriço" />
+<img width="205" height="210" alt="eba0aa75f30a8d30c446d493b53f9298" src="https://github.com/user-attachments/assets/fde10342-4180-4e22-a754-74528735fc4e" />
 
 <div align="left">
   <h3>💻 Sobre mim</h3>
