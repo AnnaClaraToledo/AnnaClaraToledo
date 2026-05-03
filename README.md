@@ -3,7 +3,7 @@
 
 <br />
 
-<img width="205" height="210" alt="eba0aa75f30a8d30c446d493b53f9298" src="https://github.com/user-attachments/assets/fde10342-4180-4e22-a754-74528735fc4e" />
+<img align="right" width="150" height="auto" alt="Sonic Pixel Art" src="https://github.com/user-attachments/assets/fde10342-4180-4e22-a754-74528735fc4e" />
 
 <div align="left">
   <h3>💻 Sobre mim</h3>
@@ -49,5 +49,4 @@
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
   </p>
-</div>
 </div>
