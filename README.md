@@ -2,9 +2,10 @@
 
 <br />
 
-<div align="left">
-  <img align="right" src="https://media.tenor.com/WbZ6yqX1R4kAAAAi/sonic-sonic-the-hedgehog.gif" width="130" alt="Sonic o Ouriço Azul" style="margin-left: 20px;" />
 
+<img align="right" src="https://i.pinimg.com/originals/f6/29/5b/f6295b9550b1d83ad6f7347ab6a15264.gif" width="120" alt="Sonic o Ouriço Azul" />
+
+<div align="left">
   <h3>💻 Sobre mim</h3>
   <ul>
     <li>🐍 Desenvolvedora <b>Python</b>.</li>
