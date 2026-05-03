@@ -26,13 +26,14 @@
 
     </td>
     <td valign="top" align="right" width="30%">
-     
-      <img src="https://raw.githubusercontent.com/TrulX/TrulX/main/sonic.gif" height="300" alt="Sonic animado correndo" />
+      <img src="https://raw.githubusercontent.com/TrulX/TrulX/main/sonic.gif" width="150" alt="Sonic animado correndo" />
     </td>
   </tr>
 </table>
 
----
+<br>
+<hr>
+<br>
 
 <div align="center">
   <h2>📫 Conecte-se comigo</h2>
