@@ -6,7 +6,7 @@
   <!-- O Sonic de verdade vai entrar aqui! -->
   <img align="right" src="<img width="205" height="210" alt="image" src="<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/d36d96c7-dd1e-4733-bbb9-0fb055b5a1d5" />
 " />
-" width="200" alt="Sonic Pixelado Animado" />
+
   
   <h3>💻 Sobre mim</h3>
   <ul>
