@@ -5,8 +5,6 @@
 <div align="left">
   <h3>💻 Sobre mim</h3>
   
-  <img align="right" width="188" height="200" alt="luffy-mugen" src="https://github.com/user-attachments/assets/0cee6b03-4bc6-4568-8afa-47f06da4b15d" />
-  
   <ul>
     <li>🐍 Desenvolvedora <b>Python</b>.</li>
     <li>🌐 Estudando o desenvolvimento de APIs com <b>Django</b>.</li>
